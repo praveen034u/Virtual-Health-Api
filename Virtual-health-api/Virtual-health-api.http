@@ -1,0 +1,6 @@
+@Virtual_health_api_HostAddress = http://localhost:5269
+
+GET {{Virtual_health_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
