@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "virtual-health-456700",
+  "private_key_id": "556633129f34db1b1760a0b1ddfae4f257f4bcf3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5E9y6RcRtgGMN\ni1AeD06njAyLEWWhDvgwi8rIOXYs6Lm8OXpr2MuikRbz9wzBOWSydxQjH3qUUJuy\nHLEF0FKMBVM2IMbGil8olRPWPzrtLOwD8MCVfA1PEs2/Udhy3m+4GtjHDl3hhPvl\nA8avFbUZLCQAdNgr50SCteE1wJa3CXI1zgiMGMYJq1GIbKZCZXG+3ndBEpoOj7Ok\n+Fbu2+eBEK60uKVH7T6w4sDaFdd9qk2YRugY7Z8l64IXC5HKM/1lnns3TwqR43Xx\nxJ8WWdbe/PdNp0RZsUw6j+y1SpiWxh+RjwVdmj47uVMnkIj5XLNsSecjRCfiP5XW\n76mW0iDjAgMBAAECggEALqtxh488PxiW4b11kH7vqJRKPW8/n2N09ljp45+Jyz1M\nSMh9tGBQyUeo8BAmKTtdxxr7+vdfI7NH75wIj5y+lAxrtUSCm2IdKNCe1fHP3Crt\nwPiet5M2j+//7fSnjh/FMDmk3F0lE09DbbaMDW594kEdOvg74qZIwmU2yyUrXDAZ\npfg3fTDXTbjLe3XiU0UncCtl8b+iW+oPReZNvTlDK93P6Wq3rVNAYFdSCWRMRijk\nZ8rvJvf6Cj9ZMpTMqjH3Sgd0syQCTD6AsNetQBv7LECGwIePU1oYcshIxDkuXnuc\nP/QHvFj9u61U0NQ6arCmDUnhF94WjcEdhZoocBfzAQKBgQDmbYBekk6HBCH1ZclF\nSEds4XL5uyf+GvKBzoaMa1nGCrO5G7ORkEwfd38ImGfnd1AHJZUnHjeZdTgkEnap\no8laHfMnLrHhsGVRQTCdRxcupdKY2DvjAFmz0KrYTmRQ5oU4LCWVURs99f4UqE7c\nHvrYNr4EjFtfjiLp0PPP6cZJQQKBgQDNnfQqtoYsFU37EP0S0ucb3RjcZtFLr4Kg\nChjhOv8Czd7eP+hHPSUrb+vwggXWVYXzSHoQwhciMJIaC60tUPmv85LvPdwvSkJ9\nTpP5gof5TFkC9DjKLRwNUvz5MT2LsrOOFVIFP/Hw7RuesS656buJQ5zzMxGUIJBe\nN765JDndIwKBgHa3seyHiofLXEeXUnQsgggZu2fowfkMHyc7pVyRLmZ3OxNCr2hu\npJmNslhWVSoO8Z9NAKRv0AtzNiJ3lMVfyixww8bLKwBxJjIP2SEe8FWrP25Z8bjJ\nhG29M1hQQyTfL4G6VP6yE8v/ghFYiZClMW3V/l5PhgAcNearLgJPmkZBAoGBAKYN\nD6iG6ugi9GzzlU1kYRuRfIhRyGh0/uq7/Me320WqeHfH6I/Pg3sG0eXTO1+ShbCp\nMVrjQ8dqrjK2h053fI1qCZmHvY+7SuLjWIFBtwnPbHsEO/CaaXMhOAcOiwOMd5Eh\nCrIOqBbHhWys7m1ZowgBQHjvHx0fBzfvkOj3pns9AoGBAN6bgFCFmJXYrFu/s+hu\n9zOJvFHWWIYMoCXoz/w4jiyBf5WnCk2nG3umGu7EVR7GNB/OSr0cxVxgJy626yMd\ndhQFnLJo6j1IWCLD+9a2Ck7dOelCWHDz5iXsumJ0wOWdmXgpmhiLddzl1RmZ569w\nDXrHUPWy+zXWaxw/Lzxqa1VG\n-----END PRIVATE KEY-----\n",
+  "client_email": "firestore-access@virtual-health-456700.iam.gserviceaccount.com",
+  "client_id": "106045892089008418108",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firestore-access%40virtual-health-456700.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
